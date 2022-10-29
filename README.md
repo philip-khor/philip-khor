@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist with experience in applied microeconometrics, machine learning and technical writing. I am package maintainer of the R package [bnmr](https://github.com/philip-khor/bnmr) and an author of pmdplyr, and I volunteer for PyData Kuala Lumpur.
+<a rel="me" href="https://fosstodon.org/@pk">I'm</a> a data scientist with experience in applied microeconometrics, machine learning and technical writing. I am package maintainer of the R package [bnmr](https://github.com/philip-khor/bnmr) and an author of pmdplyr, and I volunteer for PyData Kuala Lumpur.
 
 <!--
 **philip-khor/philip-khor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
